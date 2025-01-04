@@ -29,7 +29,6 @@ class Program
     static List<FileOption> fileOptions = new()
     {
         new FileOption("Steam ADOFAI", "steam://rungameid/977950"),
-        new FileOption("exe ADOFAI", "C:\\Program Files (x86)\\Steam\\steamapps\\common\\A Dance of Fire and Ice\\A Dance of Fire and Ice.exe")
     };
 
     static void Main()
